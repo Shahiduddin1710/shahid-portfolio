@@ -1,4 +1,4 @@
-# Mohammed Shahiduddin Shaikh – Portfolio Website
+# Mohammed Shahiduddin Shaikh - Portfolio Website
 
 This is my personal portfolio website showcasing my projects, skills, certifications, and technical expertise.
 
