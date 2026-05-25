@@ -26,4 +26,8 @@ This is my personal portfolio website showcasing my projects, skills, certificat
 ### Storage
 - Supabase Storage (public bucket: `files`)
 
+## Author
+
+**Mohammed Shahiduddin Shaikh**
+
 ⭐ If you like this project, feel free to star the repository!
