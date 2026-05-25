@@ -2,8 +2,7 @@
 
 This is my personal portfolio website showcasing my projects, skills, certifications, and technical expertise.
 
-🌐 **Live Website:**  
-https://shahiduddin.vercel.app
+🌐 **Live Website:** [https://shahiduddin.vercel.app](https://shahiduddin.vercel.app)
 
 ---
 
