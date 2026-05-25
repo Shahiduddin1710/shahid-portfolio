@@ -1,45 +1,29 @@
-# Shahiduddin Shaikh – Portfolio Website
+# Mohammed Shahiduddin Shaikh – Portfolio Website
 
 This is my personal portfolio website showcasing my projects, skills, certifications, and technical expertise.
 
 🌐 **Live Website:**  
-👉 https://shahiduddin1710.github.io/
+👉 https://shahiduddin.vercel.app
 
 ---
 
-## 📌 About the Project
+## 🛠️ Tech Stack
 
-This portfolio is designed and developed to present my:
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Google Fonts (Poppins, Sora)
 
-- 👨‍💻 Projects
-- 🎓 Education
-- 🛠 Technical Skills
-- 📜 Certifications
-- 📬 Contact Information
+### Backend
+- Node.js
+- Express.js
+- Supabase JS Client
+- Multer (file upload middleware)
+- CORS
+- Dotenv
 
-The website is fully responsive and optimized for desktop, tablet, and mobile devices.
-
----
-
-## 🛠 Tech Stack Used
-
-- HTML5  
-- CSS3 (Custom Styling + Responsive Design)  
-- JavaScript  
-- Git & GitHub  
-- GitHub Pages (for deployment)
-
----
-
-## ✨ Features
-
-- Modern dark-themed UI
-- Smooth animations & transitions
-- Fully responsive layout
-- Project showcase section with GitHub links
-- Certificates section
-- Contact section with structured layout
-- Clean and professional design
----
+### Storage
+- Supabase Storage (public bucket: `files`)
 
 ⭐ If you like this project, feel free to star the repository!
